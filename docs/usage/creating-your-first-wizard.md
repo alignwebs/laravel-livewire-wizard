@@ -55,7 +55,7 @@ class CartStepComponent extends StepComponent
 }
 ```
 
-This `CartComponent` is a regular Livewire component, so you can add any Livewire functionality you want. You could display some info, add actions, handle a form, anything goes!
+This `CartStepComponent` is a regular Livewire component, so you can add any Livewire functionality you want. You could display some info, add actions, handle a form, anything goes!
 
 Since steps are Livewire components, don't forget to register all steps to Livewire.
 
